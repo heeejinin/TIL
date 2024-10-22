@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.zerobase.convpay.service.DiscountByPayMethodTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-09T10:28:17" hostname="DESKTOP-RP5SU1O" time="0.102">
+  <properties/>
+  <testcase name="discountSuccess()" classname="com.zerobase.convpay.service.DiscountByPayMethodTest" time="0.102"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
